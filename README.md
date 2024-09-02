@@ -44,6 +44,12 @@
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
 </a>
 
+#### Certifications and Specializations:
+
+###### [ Google Advanced Data Analytics Specialization](https://coursera.org/share/8c1abf7333d204ce6a942e7adada169f)
+###### [Databases and SQL for Data Science with Python](https://coursera.org/share/53ee8d6f07ed2a3918e7cc69ad913079)
+
+
 #### Other resources:
 
 ###### [Medium Articles](https://medium.com/@amrutha.karuturi)
