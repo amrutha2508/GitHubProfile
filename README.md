@@ -44,7 +44,10 @@
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
 </a>
 
+#### Other resources:
 
+###### [Medium Articles](https://medium.com/@amrutha.karuturi)
+###### [Tableau](https://public.tableau.com/app/profile/amrutha.k2872/vizzes)
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrutha2508&show_icons=true&locale=en&layout=compact" alt="jayanthdasamantharao" /></p>
