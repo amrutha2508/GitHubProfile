@@ -24,7 +24,7 @@
 
 ### Who am I ?? <br/>
 #### 🎓 Current Data Science Graduate Student at [Rutgers University, New Brunswick](https://msds-stat.rutgers.edu/)<br>
-#### 👩‍💻 Recitation Lecturer where I teach technical topics of data science to a non-technical audience.<br> 
+#### 👩‍💻 Work as a Recitation Lecturer where I teach technical topics of data science to a non-technical audience through R Language.<br> 
 #### ⚡ A data enthusiast who loves to explore new technologies and leverage it to solve real-life problems. <br>
 #### ❤ I enjoy playing with data and exploring new technologies.<br />
 
